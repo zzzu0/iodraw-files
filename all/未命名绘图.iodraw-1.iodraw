@@ -70,14 +70,14 @@
         <mxCell id="BRjC6Y-EJ3fUEAmSBp-H-42" value="将所有数据重置" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BRjC6Y-EJ3fUEAmSBp-H-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BRjC6Y-EJ3fUEAmSBp-H-51" value="P1^0亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BRjC6Y-EJ3fUEAmSBp-H-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BRjC6Y-EJ3fUEAmSBp-H-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="430" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
