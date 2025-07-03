@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="U4Wmv2MMWAWykOyDxtSK-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="350" as="targetPoint" />
+            <mxPoint x="600" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-38" value="if t=0" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
