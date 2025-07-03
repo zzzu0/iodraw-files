@@ -35,7 +35,7 @@
           <mxGeometry x="400" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-18" value="信号2黄灯信号1红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-21" value="信号2绿灯信号1红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="120" height="60" as="geometry" />
