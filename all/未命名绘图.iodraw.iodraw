@@ -32,19 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-16" value="if t=2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-18" value="信号2黄灯信号1红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-20" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="700" width="50" height="40" as="geometry" />
+          <mxGeometry x="340" y="620" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-21" value="信号2绿灯信号1红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U4Wmv2MMWAWykOyDxtSK-23" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
