@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U4Wmv2MMWAWykOyDxtSK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4Wmv2MMWAWykOyDxtSK-2" target="U4Wmv2MMWAWykOyDxtSK-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +14,7 @@
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-7" value="信号1黄灯信号2红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-13" value="信号1绿灯信号2红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
