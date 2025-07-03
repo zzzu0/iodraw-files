@@ -19,7 +19,7 @@
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-5" value="if t =2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U4Wmv2MMWAWykOyDxtSK-7" value="绿灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U4Wmv2MMWAWykOyDxtSK-7" value="信号1黄灯信号2红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-12" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4Wmv2MMWAWykOyDxtSK-15" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
