@@ -16,6 +16,9 @@
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-7" value="信号1黄灯信号2红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="U4Wmv2MMWAWykOyDxtSK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4Wmv2MMWAWykOyDxtSK-13" target="U4Wmv2MMWAWykOyDxtSK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-13" value="信号1绿灯信号2红灯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
