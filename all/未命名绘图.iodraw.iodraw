@@ -52,9 +52,6 @@
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-23" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U4Wmv2MMWAWykOyDxtSK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.398;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U4Wmv2MMWAWykOyDxtSK-7" target="U4Wmv2MMWAWykOyDxtSK-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
