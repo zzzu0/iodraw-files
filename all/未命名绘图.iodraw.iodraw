@@ -10,7 +10,7 @@
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U4Wmv2MMWAWykOyDxtSK-5" value="if=2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U4Wmv2MMWAWykOyDxtSK-5" value="if t =2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
