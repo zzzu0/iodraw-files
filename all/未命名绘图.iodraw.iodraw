@@ -34,7 +34,7 @@
         <mxCell id="U4Wmv2MMWAWykOyDxtSK-15" value="no" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U4Wmv2MMWAWykOyDxtSK-16" value="if t =2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U4Wmv2MMWAWykOyDxtSK-16" value="if t=2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
