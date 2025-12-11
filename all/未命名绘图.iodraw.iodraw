@@ -31,7 +31,7 @@
         <mxCell id="XFr4X4C5SS8eu7Ydswns-8" value="温度传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFr4X4C5SS8eu7Ydswns-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XFr4X4C5SS8eu7Ydswns-10" value="按键输入模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XFr4X4C5SS8eu7Ydswns-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
