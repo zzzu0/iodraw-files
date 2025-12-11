@@ -13,9 +13,6 @@
         <mxCell id="XFr4X4C5SS8eu7Ydswns-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFr4X4C5SS8eu7Ydswns-2" target="XFr4X4C5SS8eu7Ydswns-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XFr4X4C5SS8eu7Ydswns-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFr4X4C5SS8eu7Ydswns-2" target="XFr4X4C5SS8eu7Ydswns-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XFr4X4C5SS8eu7Ydswns-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;复位&lt;font style=&quot;&quot;&gt;电路&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
         </mxCell>
         <mxCell id="XFr4X4C5SS8eu7Ydswns-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;报警模块（蜂鸣器）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFr4X4C5SS8eu7Ydswns-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XFr4X4C5SS8eu7Ydswns-2" target="XFr4X4C5SS8eu7Ydswns-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
