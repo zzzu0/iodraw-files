@@ -7,7 +7,7 @@
         <mxCell id="XFr4X4C5SS8eu7Ydswns-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFr4X4C5SS8eu7Ydswns-1" target="XFr4X4C5SS8eu7Ydswns-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XFr4X4C5SS8eu7Ydswns-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XFr4X4C5SS8eu7Ydswns-1" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XFr4X4C5SS8eu7Ydswns-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFr4X4C5SS8eu7Ydswns-2" target="XFr4X4C5SS8eu7Ydswns-6">
@@ -38,7 +38,7 @@
           <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XFr4X4C5SS8eu7Ydswns-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
