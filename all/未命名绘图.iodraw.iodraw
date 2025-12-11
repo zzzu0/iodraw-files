@@ -37,7 +37,7 @@
         <mxCell id="XFr4X4C5SS8eu7Ydswns-12" value="显示模块（4位置led数码管）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFr4X4C5SS8eu7Ydswns-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XFr4X4C5SS8eu7Ydswns-13" value="报警模块（蜂鸣器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
