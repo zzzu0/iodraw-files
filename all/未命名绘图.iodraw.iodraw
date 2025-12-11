@@ -28,7 +28,7 @@
         <mxCell id="XFr4X4C5SS8eu7Ydswns-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFr4X4C5SS8eu7Ydswns-8" target="XFr4X4C5SS8eu7Ydswns-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XFr4X4C5SS8eu7Ydswns-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;温度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XFr4X4C5SS8eu7Ydswns-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;温度采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XFr4X4C5SS8eu7Ydswns-10" value="按键输入模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
